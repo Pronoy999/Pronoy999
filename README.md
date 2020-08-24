@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- Check out my recent [NPM package ](https://www.npmjs.com/package/validatorswithgenerators)
 - 🔭 I’m currently working on ... :wink:
 - 🌱 I’m currently learning ... C#, NodeJS and more AWS. 
 - 👯 I’m looking to collaborate on ... NodeJS and AWS.
