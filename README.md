@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am a software engineer at [@PwC](https://twitter.com/PwC_IN). I am a backend developer, working with the technologies from the [toolbox.](https://github.com/Pronoy999#-toolbox) 
+I am an application developer at [@thoughtworks](https://twitter.com/PwC_IN). I am a backend developer, working with the technologies from the [toolbox.](https://github.com/Pronoy999#-toolbox) 
 
 - Check out my recent [NPM package ](https://www.npmjs.com/package/validatorswithgenerators)
 - 🔭 I’m currently working on ... :wink:
-- 🌱 I’m currently learning ... C#, NodeJS and more AWS. 
+- 🌱 I’m currently learning ... C#, NodeJS, Java and more AWS. 
 - 👯 I’m looking to collaborate on ... NodeJS and AWS.
 - 📫 How to reach me: ... [@PronoyMukherje](https://twitter.com/PronoyMukherje)
 
