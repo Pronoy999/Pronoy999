@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an application developer at [@Visa](https://twitter.com/Visa). I am a backend developer, working with the technologies from the [toolbox.](https://github.com/Pronoy999#-toolbox) 
+I am a senior software engineer at [@Visa](https://twitter.com/Visa). I am a backend developer, working with the technologies from the [toolbox.](https://github.com/Pronoy999#-toolbox) 
 
 - Check out my recent [NPM package ](https://www.npmjs.com/package/validatorswithgenerators)
 - 🔭 I’m currently working on ... :wink:
